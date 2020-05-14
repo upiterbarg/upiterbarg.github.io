@@ -6,6 +6,8 @@ markdown: kramdown
 
 tracking_id: UA-144023591-1
 
+remote_theme: ankitsultana/researcher@gem
+
 footer: yes
 
 sass:
