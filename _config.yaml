@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "https://upiterbarg.github.io"
  - name: "Projects"
    link: "projects"
  - name: "Resume"
