@@ -1,4 +1,23 @@
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+title: Ulyana Piterbarg
+url: "https://upiterbarg.github.io"
+baseurl: "/home"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/home/"
+ - name: "Projects"
+   link: "projects"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
