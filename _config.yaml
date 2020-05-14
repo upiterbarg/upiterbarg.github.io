@@ -23,3 +23,6 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+
+plugins:
+ - jekyll-include-cache
