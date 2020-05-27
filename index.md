@@ -10,7 +10,7 @@ Hey there! I'm a **rising senior** studying [course 18C](https://math.mit.edu/ac
 
 ## About Me
 
-I am broadly interested in **applied probability and stochastic processes**, as well as in the design of **optimal decision-making** schemes and **uncertainty quantification** methods for environments with complex dynamics.
+I am broadly interested in **applied probability and stochastic processes**, as well as in **probabilistic modeling**, **approximate Bayesian inference**, and the design of **optimal decision-making** schemes for environments with complex dynamics.
 
 ## Research
 
