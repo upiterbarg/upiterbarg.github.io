@@ -21,4 +21,4 @@ This coming fall, I will be joining the [Climate Modeling Alliance](https://clim
 
 ## Publications
 
-1. \*KR.Allen, \*KA.Smith, **U.Piterbarg**, R.Chen, JB.Tenenbaum: *Abstract strategy learning underlies flexible transfer in physical problem solving*. CogSci 2020.
+1. \*KR.Allen, \*KA.Smith, **U.Piterbarg**, R.Chen, JB.Tenenbaum: [*Abstract strategy learning underlies flexible transfer in physical problem solving*](https://cognitivesciencesociety.org/cogsci20/papers/0765/index.html). CogSci 2020.
