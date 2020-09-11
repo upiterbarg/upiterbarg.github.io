@@ -12,7 +12,7 @@ Hey there! I'm a **rising senior** studying [course 18C](https://math.mit.edu/ac
 
 I am broadly interested in **representation learning**, **Bayesian inference**, and the design of **optimal decision-making** schemes for environments with complex dynamics.
 
-Outside of academics, I am a representative on the MIT Math Department Committee for Math Majors (CoMM).
+Outside of academics, I represent undergraduates in the MIT math department via the Committee for Math Majors (CoMM).
 
 ## Research
 
