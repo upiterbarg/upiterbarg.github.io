@@ -10,7 +10,7 @@ Hey there! I'm a **senior** studying math and computer science ([course 18C](htt
 
 ## About Me
 
-I am broadly interested in **representation learning** and the design of **computational and mathematical methods for modeling complex processes**.
+I am broadly interested in **deep learning**, **causal inference**, and the design of **computational and mathematical methods for modeling complex processes**.
 
 Outside of academics, I represent undergraduates in the MIT math department via the Committee for Math Majors (CoMM).
 
