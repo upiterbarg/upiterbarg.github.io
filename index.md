@@ -10,7 +10,7 @@ Hey there! I'm a **senior** studying [course 18C](https://math.mit.edu/academics
 
 ## About Me
 
-I am broadly interested in the development of novel **inference** schemes and **ML/AI-based methods** for modeling environments and complex processes.
+I am broadly interested in **representation learning** and the design of **computational and mathematical methods for modeling complex processes**.
 
 Outside of academics, I represent undergraduates in the MIT math department via the Committee for Math Majors (CoMM).
 
