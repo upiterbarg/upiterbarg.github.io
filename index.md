@@ -23,4 +23,4 @@ Previously, I was an undergraduate research assistant in [Josh Tenenbaum](https:
 
 ## Publications
 
-1. \*KR.Allen, \*KA.Smith, **U.Piterbarg**, R.Chen, JB.Tenenbaum: [*Abstract strategy learning underlies flexible transfer in physical problem solving*](docs/cogsci2020.pdf). CogSci 2020.
+1. KR.Allen, KA.Smith, **U.Piterbarg**, R.Chen, JB.Tenenbaum: [*Abstract strategy learning underlies flexible transfer in physical problem solving*](docs/cogsci2020.pdf). 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020).
