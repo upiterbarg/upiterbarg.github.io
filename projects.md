@@ -17,7 +17,7 @@ This project was completed in early May 2020 and discusses a simple extension of
 
 > **Abstract**: *Humans are incredibly adept at learning rich contextual information about objects from only a few encounters. With respect to tool use, we are able to quickly master novel problem solving strategies, flexibly identifying how both familiar and unfamiliar objects can be employed to solve challenges confronting us. Here, we run a pilot set of experiments evaluating the [Tools Environment](https://k-r-allen.github.io/tool-games/) as a candidate for computational study of the cognitive processes supporting strategy learning. Participants were asked to solve puzzles requiring the selection and placement of an object in an initially stable 2-D physical scene in order to accomplish goals such as getting an object past a set of obstacles or launching an object into a container. We find that, for three of the four tasks examined here, players' performance in the game improves in a structured manner, corresponding to measurable mastery of increasingly "successful" strategies as more trials are completed.*
 
-I worked with Kevin A. Smith and Kelsey R. Allen in the [MIT Computational Cognitive Science Group](http://cocosci.mit.edu/) to conduct the work for this project, using a Bayesian mixture model to analyze collected strategy learning  data.
+I worked under the guidance of Kevin A. Smith and Kelsey R. Allen in the [MIT Computational Cognitive Science Group](http://cocosci.mit.edu/) to conduct the work for this project, using a Bayesian mixture model to analyze collected strategy learning  data.
 
 ---
 
