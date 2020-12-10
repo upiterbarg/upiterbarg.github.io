@@ -16,7 +16,7 @@ Outside of academics, I represent undergraduates in the MIT math department via 
 
 ## Research
 
-This fall, I joined the [Climate Modeling Alliance](https://clima.caltech.edu/) to work with [Raffaele Ferrari](http://ferrari.mit.edu/) on leveraging **inference** and **machine learning** methods to develop novel parameterizations of **turbulence** and **stochastic dynamics** in large-scale planetary flows as an [MIT Quest for Intelligence](https://quest.mit.edu/) [Advanced Undergraduate Research Scholar](https://superurop.mit.edu/).
+This past spring, I joined the [Climate Modeling Alliance](https://clima.caltech.edu/) to work with [Raffaele Ferrari](http://ferrari.mit.edu/) on leveraging **inference** and **machine learning** methods to develop novel parameterizations of **turbulence** and **stochastic dynamics** in large-scale planetary flows as an [MIT Quest for Intelligence](https://quest.mit.edu/) [Advanced Undergraduate Research Scholar](https://superurop.mit.edu/).
 
 I am also an undergraduate research assistant in [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s lab, where I have studied (1) the **cognitive bases of strategy learning** and (2) **hierarchical reinforcement learning** algorithms for **fluid manipulation tasks**.
 
