@@ -29,6 +29,6 @@ In 2017, I volunteered for the Exhibition Design department at the American Muse
 
 ## About Me
 
-In my spare time, you can find me reading, writing, painting, and exploring the coastal marshlands of Connecticut.
+In my spare time, you can find me reading, writing, painting, listening to Phoebe Bridgers, and exploring the coastal marshlands of Connecticut.
 
 
