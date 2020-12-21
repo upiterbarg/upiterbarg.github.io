@@ -29,6 +29,6 @@ In 2017, I worked as a volunteer for the Exhibition Design department of the Ame
 
 ## About Me
 
-In my spare time, you can find me reading, writing, painting, listening to Phoebe Bridgers, and exploring the coastal marshlands of Connecticut.
+In my spare time, you can find me reading, playing piano, writing, painting, listening to Phoebe Bridgers, and exploring the coastal marshlands of Connecticut.
 
 
