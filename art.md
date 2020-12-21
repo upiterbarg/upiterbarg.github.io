@@ -6,7 +6,7 @@
 
 
 ![dream](/docs/dream.jpeg)
-**"Dream"**, *acrylic on canvas & digital* (June 2020).
+**"Dream"**, *mixed media: acrylic on canvas & digital.* (June 2020)
 
 ---
 
