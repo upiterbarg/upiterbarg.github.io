@@ -25,7 +25,7 @@ In the summer of 2018, I participated in the [EPFL School of Life Science Summer
 
 I represent undergraduates in the math department via the [MIT Council for Math Majors](mailto:comm-all@mit.edu) and I am an upperclassman mentor for [MIT's Undergraduate Society for Women in Math](https://math.mit.edu/wim/uswim/). 
 
-In 2017, I was a volunteer for the Exhibition Design department of the American Museum of Natural History (AMNH), where I assisted with concept creation, research, and digital/3D modeling for the special exhibitions [Unseen Oceans](https://www.amnh.org/exhibitions/unseen-oceans) and [Our Senses: An Immersive Experience](amnh.org/exhibitions/our-senses-an-immersive-experience).
+In 2017, I worked as a volunteer for the Exhibition Design department of the American Museum of Natural History (AMNH), where I assisted with concept creation, research, and digital/3D modeling for the special exhibitions [Unseen Oceans](https://www.amnh.org/exhibitions/unseen-oceans) and [Our Senses: An Immersive Experience](amnh.org/exhibitions/our-senses-an-immersive-experience).
 
 ## About Me
 
