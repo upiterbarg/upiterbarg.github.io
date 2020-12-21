@@ -15,7 +15,7 @@ This past spring, I joined the [**Climate Modeling Alliance**](https://clima.cal
 
 I am also an undergraduate research assistant in [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s lab, the **MIT Computational Cognitive Science Group**, where I have worked on (1) investigating the **cognitive bases of strategy learning** and (2) designing adaptive, differentiable programming-based controllers for **fluid manipulation tasks**.
 
-In the summer of 2018, I participated in the [**EPFL School of Life Science Summer Research Program**](https://www.epfl.ch/schools/sv/education/summer-research-program/), where I studied option-conditional reinforcement learning algorithms under the mentorship of [Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
+In the summer of 2018, I participated in the [**EPFL School of Life Science Summer Research Program**](https://www.epfl.ch/schools/sv/education/summer-research-program/), where I studied option-conditional **reinforcement learning** algorithms under the mentorship of [Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
 
 ## Publications
 
