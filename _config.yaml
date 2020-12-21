@@ -15,10 +15,12 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "https://upiterbarg.github.io"
- - name: "Technical Projects"
+ - name: "Projects"
    link: "projects"
+ - name: "Visual"
+   link: "art"
  - name: "CV"
    link: "docs/resume.pdf"
  - name: "Contact"
