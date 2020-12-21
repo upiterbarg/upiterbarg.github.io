@@ -23,12 +23,12 @@ In the summer of 2018, I participated in the [EPFL School of Life Science Summer
 
 ## Outreach
 
-I represent undergraduates in the math department via the [MIT Council for Math Majors](mailto:comm-all@mit.edu) and I am an upperclassman mentor for [MIT's Undergraduate Society for Women in Math](https://math.mit.edu/wim/uswim/). 
+I represent undergraduates in the math department via the [**MIT Council for Math Majors**](mailto:comm-all@mit.edu) and I am an upperclassman mentor for MIT's [**Undergraduate Society for Women in Math**](https://math.mit.edu/wim/uswim/). 
 
-In 2017, I worked as a volunteer for the Exhibition Design department of the American Museum of Natural History (AMNH), where I assisted with concept creation, research, and digital/3D modeling for the special exhibitions ["Unseen Oceans"](https://www.amnh.org/exhibitions/unseen-oceans) and ["Our Senses: An Immersive Experience"](amnh.org/exhibitions/our-senses-an-immersive-experience).
+In 2017, I worked as a volunteer for the **Exhibition Design** department of the **American Museum of Natural History (AMNH)**, where I assisted with concept creation, research, and digital/3D modeling for the special exhibitions ["Unseen Oceans"](https://www.amnh.org/exhibitions/unseen-oceans) and ["Our Senses: An Immersive Experience"](amnh.org/exhibitions/our-senses-an-immersive-experience).
 
-## About Me
+## Miscellaneous 
 
-In my spare time, you can find me reading, playing piano, writing, painting, listening to Phoebe Bridgers, and exploring the coastal marshlands of Connecticut.
+In my spare time, you can catch me reading (mostly fiction, poetry, and philosophy), exploring the outdoors in boots and/or skis, and making 2D and 3D art.  
 
 
