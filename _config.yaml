@@ -23,8 +23,6 @@ nav:
    link: "art"
  - name: "CV"
    link: "docs/resume.pdf"
- - name: "Contact"
-   link: "contact"
 
 plugins:
  - jekyll-include-cache
