@@ -7,3 +7,7 @@
 
 ![dream](/docs/dream.jpeg)
 **"Dream"**, *acrylic on canvas & digital* (June 2020).
+
+---
+
+**Stay tuned for more!**
