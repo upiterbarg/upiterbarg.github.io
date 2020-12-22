@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="docs/profile.jpg">
+<img class="profile-picture" src="docs/profile.png">
 
 Hey there! I'm a **senior** studying math and computer science ([course 18C](https://math.mit.edu/academics/undergrad/major/course18c.php)) at MIT. 
 
