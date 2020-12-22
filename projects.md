@@ -23,5 +23,5 @@ I worked under the guidance of Kevin A. Smith and Kelsey R. Allen in the [MIT Co
 ---
 
 ### [Investigating the Efficacy of Option-Conditional Value Prediction in Reinforcement Learning](docs/epfl_srp_poster.pdf)
-#### [EPFL School of Life Science Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/), Poster
+#### [EPFL School of Life Sciences Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/), Poster
 Supervised by Johanni Brea and [Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/), I investigated the efficacy of option-conditional value prediction in reinforcement learning (RL) by adapting the [Value Prediction Network](https://papers.nips.cc/paper/7192-value-prediction-network.pdf)   for tabular environments as well as by implementing the algorithm as in Oh et al.'s original paper, using a combination of temporal-difference search (TD search) and n-step Q-learning for training. The poster linked here was presented to EPFL School of Life Sciences faculty in a summer research colloqium. 
