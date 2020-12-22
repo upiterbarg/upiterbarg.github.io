@@ -11,7 +11,7 @@ Hey there! I'm a **senior** studying math and computer science ([course 18C](htt
 
 I am broadly interested in the design of **probabilistic machine learning** methods for optimization under uncertainty and data-driven online decision making.
 
-This past spring, I joined the [**Climate Modeling Alliance**](https://clima.caltech.edu/) to work with [Raffaele Ferrari](http://ferrari.mit.edu/) on leveraging **inference** and **machine learning** methods to develop novel parameterizations of **turbulence** and **stochastic dynamics** in large-scale planetary flows as an [MIT Quest for Intelligence](https://quest.mit.edu/) [Advanced Undergraduate Research Scholar](https://superurop.mit.edu/).
+This past spring, I joined the [**Climate Modeling Alliance**](https://clima.caltech.edu/) to work with [Raffaele Ferrari](http://ferrari.mit.edu/) on leveraging **inference** and **deep learning** methods to develop novel parameterizations of **turbulence** and **stochastic dynamics** in large-scale planetary flows as an [MIT Quest for Intelligence](https://quest.mit.edu/) [Advanced Undergraduate Research Scholar](https://superurop.mit.edu/).
 
 I am also an undergraduate research assistant in [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s lab, the **MIT Computational Cognitive Science Group**, where I have worked on (1) investigating the **cognitive bases of strategy learning** and (2) designing adaptive, differentiable programming-based controllers for **fluid manipulation tasks**.
 
