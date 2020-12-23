@@ -13,7 +13,7 @@ I am broadly interested in the design of **probabilistic machine learning** meth
 
 This past spring, I joined the [**Climate Modeling Alliance**](https://clima.caltech.edu/) to work with [Raffaele Ferrari](http://ferrari.mit.edu/) on leveraging **inference** and **deep learning** methods to develop novel parameterizations of **turbulence** and **stochastic dynamics** in large-scale planetary flows as an [MIT Quest for Intelligence](https://quest.mit.edu/) [Advanced Undergraduate Research Scholar](https://superurop.mit.edu/).
 
-I am also an undergraduate research assistant in [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s lab, the **MIT Computational Cognitive Science Group**, where I have worked on (1) investigating the **cognitive bases of strategy learning** and (2) designing adaptive, differentiable programming-based controllers for **fluid manipulation tasks**.
+I am also an undergraduate research assistant in [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s lab, the **MIT Computational Cognitive Science Group**, where I have worked on (1) investigating the **cognitive bases of strategy learning** and (2) designing graph networks as well as adaptive, differentiable programming-based controllers for **fluid manipulation tasks**.
 
 In the summer of 2018, I participated in the [**EPFL School of Life Sciences Summer Research Program**](https://www.epfl.ch/schools/sv/education/summer-research-program/), where I studied option-conditional **reinforcement learning** algorithms under the mentorship of [Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
 
