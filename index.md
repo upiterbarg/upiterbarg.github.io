@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="docs/profile.png">
 
-I'm a **senior** studying mathematics and computer science ([course 18C](https://math.mit.edu/academics/undergrad/major/course18c.php)) at MIT. 
+I am a **graduating senior** studying mathematics and computer science ([course 18C](https://math.mit.edu/academics/undergrad/major/course18c.php)) at MIT. 
 
 
 ## Research
