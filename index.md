@@ -30,7 +30,7 @@ In 2017, I worked as a volunteer for the **Exhibition Design** department of the
 
 ## Miscellaneous 
 
-In my spare time, you can catch me **reading** (mostly fiction, poetry, and philosophy), [**working on independent projects**](projects), **exploring the outdoors** (in boots and/or skis), [**making 2D and 3D visual art**](art), and listening to Phoebe Bridgers.
+In my spare time, you can catch me **reading** (mostly fiction, poetry, and philosophy), [**working on independent projects**](projects), [**making 2D and 3D visual art**](art), **exploring the outdoors** (in boots and/or skis), and listening to Phoebe Bridgers.
 
 ## Contact
 * Email: [**upiter** -at- **mit** -dot- **edu**](#)
