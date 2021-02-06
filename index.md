@@ -9,7 +9,8 @@ I am a **graduating senior** studying mathematics and computer science ([course 
 
 ## Research
 
-I am broadly interested in the design of **probabilistic machine learning** methods for optimization under uncertainty and data-driven online decision making.
+I am broadly interested in interpretable, structured, flexible, and more “human-like” approaches to ML/AI.
+
 
 This past spring, I joined the [**Climate Modeling Alliance**](https://clima.caltech.edu/) to work with [Raffaele Ferrari](http://ferrari.mit.edu/) on leveraging **inference** and **deep learning** methods to develop novel parameterizations of **turbulence** and **stochastic dynamics** in large-scale planetary flows as an [MIT Quest for Intelligence](https://quest.mit.edu/) [Advanced Undergraduate Research Scholar](https://superurop.mit.edu/).
 
