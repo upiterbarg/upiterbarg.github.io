@@ -230,7 +230,7 @@ p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Sourc
 
 b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-.header { width: 700px; padding-top: 40px; padding-left: 40px; }
+.header { max-width: 700px; padding-top: 40px; padding-left: 40px; }
 
 .header img { float: left; width: 174px; background: #555; }
 
@@ -246,9 +246,9 @@ table { border-collapse: collapse; border: 0; }
 
 .section img { width: 80px; vertical-align: top; }
 
-.content { float: left; padding-left: 30px; padding-top: 50px; padding-bottom: 100px; width: 800px; }
+.content { float: left; padding-left: 30px; padding-top: 50px; padding-bottom: 100px; max-width: 800px; }
 
-.navbar { float: left; padding-left: 52px; padding-top: 15px; }
+.navbar { float: left; padding-left: 52px; padding-top: 15px; min-width: 400px; }
 
 .navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 7px; padding-bottom: 7px; padding-right: 30px; padding-left: 30px; border-radius: 1px; }
 
