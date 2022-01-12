@@ -252,4 +252,4 @@ table { border-collapse: collapse; border: 0; }
 
 .navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 7px; padding-bottom: 7px; padding-right: 30px; padding-left: 30px; border-radius: 1px; }
 
-.navbar a.active { text-decoration: none; color: #000; background: #c0c0c0; padding-top: 7px; padding-bottom: 7px; padding-right: 30px; padding-left: 30px; border-radius: 1px; }
+.navbar a.highlighted { text-decoration: none; color: #000; background: #c0c0c0; padding-top: 7px; padding-bottom: 7px; padding-right: 30px; padding-left: 30px; border-radius: 1px; }
