@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Abstract strategy learning underlies flexible transfer in physical problem solving
+date:   2020-07-20 00:00:00 +00:00
+image: /cogsci2020.png
+categories: research
+author: "Kelsey R. Allen, Kevin A. Smith, Ulyana Piterbarg, Robert Chen, Josh B. Tenenbaum"
+authors: "Kelsey R. Allen, Kevin A. Smith, <b>Ulyana Piterbarg</b>, Robert Chen, Josh B. Tenenbaum"
+venue: "42nd Annual Meeting of the Cognitive Science Society"
+---
+What do people learn when they repeatedly try to solve a set of
+related problems? In a set of three different exploratory physical problem solving experiments, participants consistently learn strategies rather than generically better world models. Our results suggested that people can make use of limited experience to learn abstract strategies that go beyond simple model-free policies and are instead object-oriented, adaptable, and can be parameterized by model-based variables such as weight.

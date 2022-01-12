@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Anamorphic Entrance Scupture Prototype
+date:   2017-06-10 00:00:00 +00:00
+image: /senses.jpg
+categories: AMNH
+authors: "<strong>Ulyana Piterbarg</strong>, Ellie Shapiro"
+course: "Exhibitions Department"
+---
+I co-designed the prototype of an anamorphic entrance sculpture to the American Museum of Natural History special exhibition "<a href="https://www.amnh.org/exhibitions/our-senses-an-immersive-experience">Our Senses: An Immersive Experience</a>." The final sculpture was included in the <em>New York Times</em> feature on the exhibition, <a href="https://www.nytimes.com/2017/11/23/arts/design/our-senses-exhibition-american-museum-of-natural-history.html">"This Exhibition Will Help You Make Sense of Your Senses"</a>.

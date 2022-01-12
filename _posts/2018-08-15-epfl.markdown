@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Investigating Option-Conditional Value Prediction in Refinforcement Learning"
+date:   2018-08-15 00:00:00 +00:00
+image: /vpn.png
+categories: EPFL
+authors: "<strong>Ulyana Piterbarg</strong>, Johanni Brea, Wulfram Gerstner"
+course: "Life Sciences Summer Research Program Colloquium"
+poster: /pdfs/epfl_srp_poster.pdf
+---
+Supervised by <a href="https://scholar.google.ch/citations?user=nZ0m0xUAAAAJ&hl=de">Johanni Brea</a> and <a href="https://lcnwww.epfl.ch/gerstner/">Wulfram Gerstner</a>, I investigated the efficacy of option-conditional value prediction in reinforcement learning (RL) by adapting the <a href="https://papers.nips.cc/paper/2017/file/ffbd6cbb019a1413183c8d08f2929307-Paper.pdf">Value Prediction Network</a> for tabular environments as well as by implementing the algorithm as in Oh et al.’s original paper, using a combination of temporal-difference search (TD search) and n-step Q-learning for training. 

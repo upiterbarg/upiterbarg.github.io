@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Exploring strategy learning in the “Tools Environment”
+date:   2018-12-10 00:00:00 +00:00
+image: /toolsimg.png
+categories: MIT
+author: "Ulyana Piterbarg"
+course: "9.66/9.660/6.804: Computational Cognitive Science"
+---
+I worked with <a href="http://www.mit.edu/~k2smith/">Kevin A. Smith</a> and <a href="https://web.mit.edu/krallen/www/">Kelsey R. Allen</a> to design and to run a preliminary study testing the <a href="https://sites.google.com/view/virtualtoolsgame/home">Virtual Tools Game</a> as a testbed for behavioral experiments studying abstract strategy learning in humans. I also designed a hierarchical Bayesian mixture model to identify the abstract strategies learned by study participants directly from data. 

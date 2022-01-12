@@ -1,0 +1,157 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+  color: #3e4650;
+  text-decoration: none;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: 'Space Mono', monospace;
+}
+
+h2 {
+  color: #3e4650;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: 'Space Mono', monospace;
+}
+
+h3 {
+  color: #3e4650;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Space Mono', monospace;
+}
+
+a {
+  color: #008080;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17;
+}
+
+a:hover {
+  color: #ffa500;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17;
+}
+
+li {
+  color: #3e4650;
+  font-weight: 600;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17;
+}
+
+p {
+  color: #3e4650;
+  text-decoration: none;
+  font-weight: 400;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17;
+}
+
+b {
+  color: #404040;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17;
+}
+
+.header {
+  width: 700px;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+
+.header img {
+  float: left;
+  width: 174px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 0px;
+  left: 60px;
+}
+
+.header  p {
+  color: #3e4650;
+  position: relative;
+  left: 60px;
+  font-weight: 400;
+  font-family: 'Space Mono', monospace;
+  font-size: 14;
+}
+
+.header  a {
+  color: #3e4650;
+  font-weight: 400;
+  font-family: 'Space Mono', monospace;
+  font-size: 14;
+  text-decoration: underline;
+}
+
+table {
+  border-collapse: collapse;
+  border: 0;
+}
+
+.header  b {
+  color: #3e4650;
+  font-weight: 600;
+  font-family: 'Space Mono', monospace;
+  font-size: 14;
+}
+
+
+.section img {
+  width: 80px;
+  vertical-align:top;
+}
+
+
+
+.content {
+	float: left;
+	padding-left: 30px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	width: 800px;
+}
+.navbar {
+	float: left;
+	padding-left: 52px;
+	padding-top:15px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #000;
+  background: #e6e4e4;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 1px;
+}
+
+.navbar a.active {
+  text-decoration: none;
+  color: #000;
+  background: #c0c0c0;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 1px;
+}

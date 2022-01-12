@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Experiments with Quasi-Geostrophic Flows
+date:   2021-01-10 00:00:00 +00:00
+image: /qg.gif
+categories: MIT
+authors: "<b>Ulyana Piterbarg</b>, Andre Souza"
+course: "Ferrari Lab"
+---
+Under the supervision of <a href="https://sandreza.github.io/">Andre N. Souza</a>, I experimented with turbulent regimes of <a href="https://en.wikipedia.org/wiki/Quasi-geostrophic_equations#:~:text=While%20geostrophic%20motion%20refers%20to,inertia%20also%20having%20an%20effect."> quasigeostrophic flows</a>, numerically approximated using Julia.

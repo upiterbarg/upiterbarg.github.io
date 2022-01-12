@@ -1,0 +1,124 @@
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    $(function(){
+        $('a').each(function(){
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('active'); $(this).parents('navbar').addClass('active');
+            }
+        });
+    });
+</script>
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+{% include head-custom.html %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<style type="text/css">
+  </style>
+  </head>
+  <body style="background-image:url('/assets/img/neurons3.png')">
+    <div class="wrapper">
+      <div class="header">
+        <img src="{{site.logo}}" alt="Ulyana Piterbarg"/>
+        <h1> Ulyana Piterbarg </h1>
+        <p> 
+          &nbsp &nbsp &nbsp &nbsp  <b>up2021</b> [at] <b>cims.nyu.edu</b> <br>
+          [<a href=https://twitter.com/ulyanapiterbarg>Twitter</a>]  [<a href=https://scholar.google.com/citations?user=I5lFCusAAAAJ&hl=en>Google Scholar</a>]
+          [<a href=https://github.com/upiterbarg>Github</a>]
+          [<a href=assets/docs/CV.pdf>CV</a>]
+        </p>
+        <div class="navbar">
+          <a href="/"> Home </a> <a href="/projects"> Research </a> <a href="/teaching"> Teaching </a>
+        </div>
+      </div>
+      <div>
+      <div class="content">
+      	{{ content }}
+      	<br>
+      	<br>
+       <h2>Papers</h2>
+       <b>
+  <table>
+  {% for post in site.posts %}
+  {% for cat in post.categories %}
+  {% if cat == 'research' %}
+  <tr>
+    <td class="section">
+      <img src="/assets/img/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:top">
+      <h3>{{post.title}}</h3>
+      <br>
+      {{post.authors}}
+
+  <br>
+  <i>{{post.venue}}</i>, {{ post.date | date: "%Y" }}
+  <br>
+  {% if post.arxiv %}
+  <a href="{{post.arxiv}}">arxiv</a> /
+  {% endif %}
+  {% if post.video %}
+  <a href="{{post.video}}">video</a> /
+  {% endif %}
+  {% if post.code %}
+  <a href="{{post.code}}">code</a> /
+  {% endif %}
+  {% if post.poster %}
+  <a href="{{post.poster}}">poster</a> /
+  {% endif %}
+  {% if post.slides %}
+  <a href="{{post.slides}}">slides</a> /
+  {% endif %}
+  <s></s>
+  <br>
+  {{ post.excerpt }}
+</td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</table>
+<br>
+<br>
+<br>
+<h2>Unpublished Work</h2>
+<br>
+<table>
+
+  {% for post in site.posts %}
+  {% for cat in post.categories %}
+  {% if cat != 'research' and cat != 'Intel' %}
+  <tr>
+    <td class="section">
+      <img src="/assets/img/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:top">
+      <h3>{{post.title}}</h3>
+      {{post.categories}} {{post.course}}
+      ({{ post.date | date: "%Y-%m-%d" }})
+
+  <br>
+  <br>
+  {{ post.excerpt }}
+  <br>
+</td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</table>
+</div>
+  </body>
+</html>

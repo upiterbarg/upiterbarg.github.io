@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Biped Locomotion from Human Demonstrations with Motion Imitation via RL
+date:   2021-05-17 00:00:00 +00:00
+image: /biped.gif
+categories: MIT
+authors: "<strong>Ulyana Piterbarg</strong>"
+course: "6.832: Underactuated Robotics (graduate)"
+video: https://www.youtube.com/watch?v=swN7lZVsBW8
+---
+I experimented with reinforcement learning as a basis for learning bipedal locomotive skills from human demonstrations, using data from the [CMU Motion Capture Database](http://mocap.cs.cmu.edu/) as the demonstration source and the [NASA Valkyrie (R5) robot](https://sites.utexas.edu/hcrl/files/2016/01/jfr-nasa-hcrl-final.pdf) as the target system for motion imitation. This work draws from [*Peng at al. 2020*](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) and [*Xie et al. 2019*](https://arxiv.org/pdf/1903.09537.pdf).
