@@ -1,14 +1,3 @@
-<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script>
-    $(function(){
-        $('a').each(function(){
-            if ($(this).prop('href') == window.location.href) {
-                $(this).addClass('active'); $(this).parents('navbar').addClass('active');
-            }
-        });
-    });
-</script>
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
@@ -40,7 +29,7 @@
           [<a href=assets/docs/CV.pdf>CV</a>]
         </p>
         <div class="navbar">
-          <a href="upiterbarg.github.io"> Home </a> <a href="upiterbarg.github.io/projects"> Research </a> <a href="upiterbarg.github.io/teaching"> Teaching </a>
+          <a href="upiterbarg.github.io"> Home </a> <a href="upiterbarg.github.io/projects"> Research </a> <a class="active" href="upiterbarg.github.io/teaching"> Teaching </a>
         </div>
       </div>
       <div>
