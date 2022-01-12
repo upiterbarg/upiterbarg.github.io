@@ -1,3 +1,14 @@
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    $(function(){
+        $('a').each(function(){
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('active'); $(this).parents('navbar').addClass('active');
+            }
+        });
+    });
+</script>
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -17,7 +28,7 @@
 
     <style type="text/css">
   </style>
-  </head>
+</head>
   <body style="background-image:url('/assets/img/neurons3.png')">
     <div class="wrapper">
       <div class="header">

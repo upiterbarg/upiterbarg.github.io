@@ -220,15 +220,15 @@ h2 { color: #3e4650; text-decoration: none; font-size: 24px; font-weight: 600; f
 
 h3 { color: #3e4650; text-decoration: none; font-size: 16px; font-weight: 600; font-family: 'Space Mono', monospace; }
 
-a { color: #008080; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 17; }
+a { color: #008080; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-a:hover { color: #ffa500; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 17; }
+a:hover { color: #ffa500; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-li { color: #3e4650; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 17; }
+li { color: #3e4650; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 17; }
+p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 17; }
+b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
 .header { width: 700px; padding-top: 40px; padding-left: 40px; }
 

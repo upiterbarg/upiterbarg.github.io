@@ -1,3 +1,14 @@
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    $(function(){
+        $('a').each(function(){
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('active'); $(this).parents('navbar').addClass('active');
+            }
+        });
+    });
+</script>
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -25,7 +36,7 @@
 {"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/amnh/2017/06/09/amnh.html"},"image":"http://localhost:4000/senses.jpg","url":"http://localhost:4000/amnh/2017/06/09/amnh.html","headline":"Anamorphic Entrance Scupture Prototype","description":"I co-designed the prototype of an anamorphic entrance sculpture to the American Museum of Natural History special exhibition “Our Senses: An Immersive Experience.” The final sculpture was included in the New York Times feature on the exhibition, “This Exhibition Will Help You Make Sense of Your Senses”.","dateModified":"2017-06-09T20:00:00-04:00","datePublished":"2017-06-09T20:00:00-04:00","@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=22562591adad66c8623446563c103e0cc97eee7b">
+    <link rel="stylesheet" href="/assets/css/style.css?v=0ee712b75d0325cef4de6d3c116be6a9bcae9c87">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -55,7 +66,7 @@
 
     <style type="text/css">
   </style>
-  </head>
+</head>
   <body style="background-image:url('/assets/img/neurons3.png')">
     <div class="wrapper">
       <div class="header">
