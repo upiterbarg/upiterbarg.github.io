@@ -82,6 +82,7 @@ b {
   position: relative;
   top: 0px;
   text-align: center;
+  left: 5px;
 }
 
 .header  p {
@@ -91,6 +92,7 @@ b {
   font-family: 'Space Mono', monospace;
   font-size: 14;
   text-align: center;
+  left: 5px;
 }
 
 .header  a {
@@ -100,6 +102,7 @@ b {
   font-size: 14;
   text-decoration: underline;
   text-align: center;
+  left: 5px;
 }
 
 table {
@@ -116,6 +119,7 @@ table {
   padding-top:15px;
   width:375px;
   text-align: center;
+  padding-left: 5px;
 }
 
 
@@ -133,20 +137,21 @@ table {
 	max-width: 800px;
 }
 .navbar {
-  padding-top: 30px;
+  padding-top: 40px;
 	position:relative;
 	text-align: center;
+  left: 5px;
 }
 
 .navbar a {
   text-decoration: none;
   color: #000;
   background: #e6e4e4;
-  padding-top: 7px;
-  padding-bottom: 7px;
-  padding-right: 30px;
-  padding-left: 30px;
-  border-radius: 1px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 2px;
 }
 
 .navbar a.active {
@@ -155,7 +160,7 @@ table {
   background: #c0c0c0;
   padding-top: 7px;
   padding-bottom: 7px;
-  padding-right: 30px;
-  padding-left: 30px;
-  border-radius: 1px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 2px;
 }
