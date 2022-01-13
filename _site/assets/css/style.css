@@ -230,25 +230,25 @@ p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Sourc
 
 b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-.header { max-width: 700px; padding-top: 40px; padding-left: 40px; }
+.header { max-width: 600px; padding-top: 40px; }
 
-.header img { float: left; width: 174px; background: #555; }
+.header img { float: left; width: 150px; background: #555; }
 
-.header h1 { position: relative; top: 0px; left: 60px; }
+.header h1 { position: relative; top: 0px; text-align: center; }
 
-.header p { color: #3e4650; position: relative; left: 60px; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; }
+.header p { color: #3e4650; position: relative; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-align: center; }
 
-.header a { color: #3e4650; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-decoration: underline; }
+.header a { color: #3e4650; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-decoration: underline; text-align: center; }
 
 table { border-collapse: collapse; border: 0; }
 
-.header b { color: #3e4650; font-weight: 600; font-family: 'Space Mono', monospace; font-size: 14; }
+.header b { color: #3e4650; font-weight: 600; font-family: 'Space Mono', monospace; font-size: 14; float: left; padding-top: 15px; width: 375px; text-align: center; }
 
 .section img { width: 80px; vertical-align: top; }
 
-.content { float: left; padding-left: 30px; padding-top: 50px; padding-bottom: 100px; max-width: 800px; }
+.content { padding-left: 0px; padding-top: 50px; padding-bottom: 100px; max-width: 800px; }
 
-.navbar { float: left; padding-left: 52px; padding-top: 15px; min-width: 400px; }
+.navbar { padding-top: 30px; position: relative; text-align: center; }
 
 .navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 7px; padding-bottom: 7px; padding-right: 30px; padding-left: 30px; border-radius: 1px; }
 
