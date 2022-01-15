@@ -80,13 +80,14 @@ b {
   float: left;
   width: 30%;
   background: #555;
+  padding-bottom: 2%;
+  padding-right: 2%;
+  background: none;
 }
 
 .header h1 {
   position: relative;
-  top: 0px;
   text-align: center;
-  left: 10px;
 }
 
 .header  p {
@@ -96,7 +97,6 @@ b {
   font-family: 'Space Mono', monospace;
   font-size: 14;
   text-align: center;
-  left: 10px;
 }
 
 .header  a {
@@ -106,7 +106,6 @@ b {
   font-size: 14;
   text-decoration: underline;
   text-align: center;
-  left: 10px;
 }
 
 table {
@@ -131,7 +130,7 @@ td {
 }
 
 .wrapper {
-  max-width: 700px;
+  max-width: 675px;
 }
 .content {
 	padding-left: 0px;
@@ -144,7 +143,6 @@ td {
   padding-top: 15px;
 	position:relative;
 	text-align: center;
-  left: 10px;
 }
 
 .navbar a {
@@ -156,6 +154,7 @@ td {
   padding-right: 20px;
   padding-left: 20px;
   border-radius: 2px;
+  border: #3e4650;
 }
 
 .navbar a.active {
@@ -167,4 +166,5 @@ td {
   padding-right: 20px;
   padding-left: 20px;
   border-radius: 2px;
+  border-color: #3e4650;
 }

@@ -234,13 +234,13 @@ b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Sourc
 
 .section img { float: left; }
 
-.header img { float: left; width: 30%; background: #555; }
+.header img { float: left; width: 30%; background: #555; padding-bottom: 2%; padding-right: 2%; background: none; }
 
-.header h1 { position: relative; top: 0px; text-align: center; left: 10px; }
+.header h1 { position: relative; text-align: center; }
 
-.header p { color: #3e4650; position: relative; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-align: center; left: 10px; }
+.header p { color: #3e4650; position: relative; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-align: center; }
 
-.header a { color: #3e4650; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-decoration: underline; text-align: center; left: 10px; }
+.header a { color: #3e4650; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-decoration: underline; text-align: center; }
 
 table { border-collapse: collapse; border: 0; }
 
@@ -248,12 +248,12 @@ table { border-collapse: collapse; border: 0; }
 
 td { border: none; }
 
-.wrapper { max-width: 700px; }
+.wrapper { max-width: 675px; }
 
 .content { padding-left: 0px; padding-top: 75px; padding-bottom: 100px; max-width: 675px; }
 
-.navbar { padding-top: 15px; position: relative; text-align: center; left: 10px; }
+.navbar { padding-top: 15px; position: relative; text-align: center; }
 
-.navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 8px; padding-bottom: 8px; padding-right: 20px; padding-left: 20px; border-radius: 2px; }
+.navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 8px; padding-bottom: 8px; padding-right: 20px; padding-left: 20px; border-radius: 2px; border: #3e4650; }
 
-.navbar a.active { text-decoration: none; color: #000; background: #c0c0c0; padding-top: 7px; padding-bottom: 7px; padding-right: 20px; padding-left: 20px; border-radius: 2px; }
+.navbar a.active { text-decoration: none; color: #000; background: #c0c0c0; padding-top: 7px; padding-bottom: 7px; padding-right: 20px; padding-left: 20px; border-radius: 2px; border-color: #3e4650; }
