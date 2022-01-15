@@ -228,7 +228,13 @@ a:active { color: #ffa500; text-decoration: none; font-weight: 700; font-family:
 
 li { color: #3e4650; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
+e { color: #3e4650; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
+
 p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
+
+p.tab { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; line-height: 0.6; padding-bottom: 2%; padding-left: 5%; }
+
+p.quote { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; padding-left: 5%; padding-top: 1.5%; }
 
 b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
@@ -238,7 +244,7 @@ b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Sourc
 
 .header img { float: left; width: 30%; background: #555; padding-bottom: 2%; padding-right: 2%; background: none; }
 
-.header h1 { position: relative; text-align: center; }
+.header h1 { position: relative; text-align: center; line-height: 1; }
 
 .header p { color: #3e4650; position: relative; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-align: center; }
 
@@ -254,7 +260,7 @@ td { border: none; }
 
 .content { padding-left: 0px; padding-top: 75px; padding-bottom: 0px; max-width: 675px; }
 
-.navbar { padding-top: 15px; position: relative; text-align: center; }
+.navbar { padding-top: 15px; position: relative; text-align: center; white-space: nowrap; }
 
 .navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 8px; padding-bottom: 8px; padding-right: 20px; padding-left: 20px; border-radius: 2px; border: #3e4650; }
 
