@@ -214,7 +214,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   .downloads { width: 99%; }
   .downloads li, .downloads li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
-h1 { color: #3e4650; text-decoration: none; font-size: 32px; font-weight: 600; font-family: 'Space Mono', monospace; }
+h1 { color: #3e4650; text-decoration: none; font-size: 40px; font-weight: 600; font-family: 'Space Mono', monospace; }
 
 h2 { color: #3e4650; text-decoration: none; font-size: 24px; font-weight: 600; font-family: 'Space Mono', monospace; }
 
@@ -230,27 +230,29 @@ p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Sourc
 
 b { color: #404040; text-decoration: none; font-weight: 600; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-.header { max-width: 600px; padding-top: 40px; }
+.header { max-width: 650px; padding-top: 40px; }
 
-.header img { float: left; width: 150px; background: #555; }
+.section img { float: left; }
 
-.header h1 { position: relative; top: 0px; text-align: center; left: 5px; }
+.header img { float: left; width: 30%; background: #555; }
 
-.header p { color: #3e4650; position: relative; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-align: center; left: 5px; }
+.header h1 { position: relative; top: 0px; text-align: center; left: 10px; }
 
-.header a { color: #3e4650; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-decoration: underline; text-align: center; left: 5px; }
+.header p { color: #3e4650; position: relative; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-align: center; left: 10px; }
+
+.header a { color: #3e4650; font-weight: 400; font-family: 'Space Mono', monospace; font-size: 14; text-decoration: underline; text-align: center; left: 10px; }
 
 table { border-collapse: collapse; border: 0; }
 
-.header b { color: #3e4650; font-weight: 600; font-family: 'Space Mono', monospace; font-size: 14; float: left; padding-top: 15px; width: 375px; text-align: center; padding-left: 5px; }
-
-.section img { width: 80px; vertical-align: middle; }
+.header b { color: #3e4650; font-weight: 600; font-family: 'Space Mono', monospace; font-size: 14; float: left; padding-top: 15px; width: 375px; text-align: center; left: 10px; }
 
 td { border: none; }
 
-.content { padding-left: 0px; padding-top: 50px; padding-bottom: 100px; max-width: 800px; }
+.wrapper { max-width: 700px; }
 
-.navbar { padding-top: 40px; position: relative; text-align: center; left: 5px; }
+.content { padding-left: 0px; padding-top: 75px; padding-bottom: 100px; max-width: 675px; }
+
+.navbar { padding-top: 15px; position: relative; text-align: center; left: 10px; }
 
 .navbar a { text-decoration: none; color: #000; background: #e6e4e4; padding-top: 8px; padding-bottom: 8px; padding-right: 20px; padding-left: 20px; border-radius: 2px; }
 

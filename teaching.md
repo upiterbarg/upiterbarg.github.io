@@ -1,7 +1,6 @@
 ---
 layout: teaching
 ---
-<br>
 ## Teaching
 
 In the past, I've been a teaching assistant for the courses listed below.

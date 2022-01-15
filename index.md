@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<br>
 ## About
 
 I'm a first-year Ph.D. student in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Courant](https://cims.nyu.edu/dynamic/), co-advised by [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php) and [Lerrel Pinto](https://www.lerrelpinto.com/). My research interests include <b>representation learning</b>, <b>differentiable computing</b>, <b>intuitive physics</b>, and <b>reinforcement learning</b>. I'm fortunate to be supported by a 2021-2022 Deepmind Ph.D. fellowship.

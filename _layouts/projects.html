@@ -49,8 +49,6 @@
       <div>
       <div class="content">
       	{{ content }}
-      	<br>
-      	<br>
        <h2>Papers</h2>
        <b>
   <table>
@@ -58,10 +56,10 @@
   {% for cat in post.categories %}
   {% if cat == 'research' %}
   <tr>
-    <td class="section">
-      <img src="/assets/img/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    <td class="section" style="vertical-align: text-top;">
+      <img src="/assets/img/tn{{post.image}}" alt="project image" style="display:block; padding-top: 12%;" height="100%" />
     </td>
-    <td style="padding:2.5%;width:75%;vertical-align:top">
+    <td style="padding-top: 3%; padding-bottom: 3%; padding-left: 8%; width:75%;vertical-align:top">
       <h3>{{post.title}}</h3>
       <br>
       {{post.authors}}
@@ -104,10 +102,10 @@
   {% for cat in post.categories %}
   {% if cat != 'research' and cat != 'Intel' %}
   <tr>
-    <td class="section">
-      <img src="/assets/img/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    <td style="vertical-align: text-top;">
+      <img src="/assets/img/tn{{post.image}}" alt="project image" style="display:block; padding-top: 12%;" height="100%" />
     </td>
-    <td style="padding:2.5%;width:75%;vertical-align:top">
+    <td style="padding-top: 3%; padding-bottom: 5%; padding-left: 8%; width:75%;vertical-align:top">
       <h3>{{post.title}}</h3>
       {{post.categories}} {{post.course}}
       ({{ post.date | date: "%Y-%m-%d" }})
