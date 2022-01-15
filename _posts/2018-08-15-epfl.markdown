@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investigating Option-Conditional Value Prediction in Refinforcement Learning"
+title:  "Investigating Option-Conditional Value Prediction in Reinforcement Learning"
 date:   2018-08-15 00:00:00 +00:00
 image: /vpn.png
 categories: EPFL
