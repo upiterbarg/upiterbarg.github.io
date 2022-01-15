@@ -232,7 +232,7 @@ e { color: #3e4650; text-decoration: none; font-weight: 600; font-family: 'Sourc
 
 p { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; }
 
-p.tab { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; line-height: 0.6; padding-bottom: 2%; padding-left: 5%; }
+p.tab { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; padding-bottom: 2%; padding-left: 5%; }
 
 p.quote { color: #3e4650; text-decoration: none; font-weight: 400; font-family: 'Source Sans Pro', sans-serif; font-size: 16; padding-left: 5%; padding-top: 1.5%; }
 
