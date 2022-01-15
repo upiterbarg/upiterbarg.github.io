@@ -125,9 +125,12 @@ table {
 
 .section img {
   width: 80px;
-  vertical-align:top;
+  vertical-align:middle;
 }
 
+td {
+    border: none;
+}
 
 
 .content {
