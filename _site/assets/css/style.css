@@ -250,7 +250,7 @@ td { border: none; }
 
 .wrapper { max-width: 675px; }
 
-.content { padding-left: 0px; padding-top: 75px; padding-bottom: 100px; max-width: 675px; }
+.content { padding-left: 0px; padding-top: 75px; padding-bottom: 0px; max-width: 675px; }
 
 .navbar { padding-top: 15px; position: relative; text-align: center; }
 
