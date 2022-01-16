@@ -22,34 +22,3 @@ Below are some of my favorite reads.
 * <a href="https://www.goodreads.com/book/show/326790.The_Society_of_Mind">The Society of the Mind</a> by Marvin Minsky
 * <a href="https://www.goodreads.com/book/show/23582015-principles-of-neural-design">Principles of Neural Design</a> by Peter Sterling and Simon Laughlin
 * <a href="https://mitpress.mit.edu/books/ideas-created-future">Ideas That Created the Future: Classic Papers of Computer Science</a> by Harry R. Lewis
-
-<br>
-
-## Words of Wisdom
-
-Here are a few thoughts from some of my personal heroes.
-<br>
-<p class="quote">
-<i> "You can do it, only you can do it, you can't do it alone." 
-</i>
-</p>
-<p class="tab"> (<a href="https://people.csail.mit.edu/phw/">Patrick H. Winston</a>)
-
-<p class="quote">
-<i>"The next great era of awakening of human intellect may well produce a method of understanding the qualitative content of equations. Today we cannot. Today we cannot see that the water flow equations contain such things as the barber pole structure of turbulence that one sees between rotating cylinders. Today we cannot see whether Schrodinger's equation contains frogs, musical composers, or morality -- or whether it does not."</i> 
-</p>
-<p class="tab"> (<a href="https://en.wikipedia.org/wiki/Richard_Feynman"><e>Richard Feynman</e></a>, <a href="https://www.google.com/books/edition/The_Feynman_Lectures_on_Physics_Vol_II/CL6DBQAAQBAJ?hl=en&gbpv=0"><i>The Feynman Lectures on Physics - Vol. II</i></a>)
-
-<p class="quote">
-<i> "Space is much more powerful than time -- you can reuse space all you want, but you can never reuse time." </i>
-</p>
-<p class="tab">
-(<a href="http://www-math.mit.edu/~sipser/">Michael Sipser</a>, <a href="https://math.mit.edu/~sipser/18404/"><i>18.404/6.840: Introduction to the Theory of Computation</i></a>)
-</p>
-
-<p class="quote">
-<i> "A great positive reasoning for believing in the possibility of making thinking machinery is the fact that it is possible to make machinery to imitate any small part of a man." </i>
-</p>
-<p class="tab">
-(<a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>, <a href="https://hashingit.com/elements/research-resources/1948-intelligent-machinery.pdf"><i>Intelligent Machinery</i></a>)
-</p>
