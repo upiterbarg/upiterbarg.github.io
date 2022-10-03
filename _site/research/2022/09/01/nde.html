@@ -1,0 +1,95 @@
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    $(function(){
+        $('a').each(function(){
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('active'); $(this).parents('navbar').addClass('active');
+            }
+        });
+    });
+</script>
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Capturing missing physics in climate model parameterizations using neural differential equations | Ulyana Piterbarg</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Capturing missing physics in climate model parameterizations using neural differential equations" />
+<meta name="author" content="Ali Ramadhan, John C Marshall, Andre Nogueira Souza, Xin Kai Lee, Ulyana Piterbarg, Adeline Hillier, Gregory LeClaire Wagner, Christopher Rackauckas, Chris Hill, Jean-Michel Campin, Raffaele Ferrari" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="We explore how neural differential equations (NDEs) may be trained on highly resolved fluid-dynamical models of unresolved scales providing an ideal framework for data-driven parameterizations in climate models. NDEs overcome some of the limitations of traditional neural networks (NNs) in fluid dynamical applications in that they can readily incorporate conservation laws and boundary conditions and are stable when integrated over time. We advocate a method that employs a “residual” approach, in which the NN is used to improve upon an existing parameterization through the representation of residual fluxes which are not captured by the base parameterization." />
+<meta property="og:description" content="We explore how neural differential equations (NDEs) may be trained on highly resolved fluid-dynamical models of unresolved scales providing an ideal framework for data-driven parameterizations in climate models. NDEs overcome some of the limitations of traditional neural networks (NNs) in fluid dynamical applications in that they can readily incorporate conservation laws and boundary conditions and are stable when integrated over time. We advocate a method that employs a “residual” approach, in which the NN is used to improve upon an existing parameterization through the representation of residual fluxes which are not captured by the base parameterization." />
+<link rel="canonical" href="http://localhost:4000/research/2022/09/01/nde.html" />
+<meta property="og:url" content="http://localhost:4000/research/2022/09/01/nde.html" />
+<meta property="og:site_name" content="Ulyana Piterbarg" />
+<meta property="og:image" content="http://localhost:4000/nde.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-09-01T20:00:00-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/nde.png" />
+<meta property="twitter:title" content="Capturing missing physics in climate model parameterizations using neural differential equations" />
+<script type="application/ld+json">
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.jpg"},"name":"Ali Ramadhan, John C Marshall, Andre Nogueira Souza, Xin Kai Lee, Ulyana Piterbarg, Adeline Hillier, Gregory LeClaire Wagner, Christopher Rackauckas, Chris Hill, Jean-Michel Campin, Raffaele Ferrari"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/research/2022/09/01/nde.html"},"image":"http://localhost:4000/nde.png","url":"http://localhost:4000/research/2022/09/01/nde.html","author":{"@type":"Person","name":"Ali Ramadhan, John C Marshall, Andre Nogueira Souza, Xin Kai Lee, Ulyana Piterbarg, Adeline Hillier, Gregory LeClaire Wagner, Christopher Rackauckas, Chris Hill, Jean-Michel Campin, Raffaele Ferrari"},"headline":"Capturing missing physics in climate model parameterizations using neural differential equations","description":"We explore how neural differential equations (NDEs) may be trained on highly resolved fluid-dynamical models of unresolved scales providing an ideal framework for data-driven parameterizations in climate models. NDEs overcome some of the limitations of traditional neural networks (NNs) in fluid dynamical applications in that they can readily incorporate conservation laws and boundary conditions and are stable when integrated over time. We advocate a method that employs a “residual” approach, in which the NN is used to improve upon an existing parameterization through the representation of residual fluxes which are not captured by the base parameterization.","dateModified":"2022-09-01T20:00:00-04:00","datePublished":"2022-09-01T20:00:00-04:00","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=6c88576b8b34dbc159b1846304fe534815a1699e">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+    <style type="text/css">
+  </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144023591-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-144023591-1');
+    </script>
+</head>
+  <body style="background-image:url('/assets/img/neurons3.png')">
+    <div class="wrapper">
+      <div class="header">
+        <img src="/assets/img/profile.jpg" alt="Ulyana Piterbarg"/>
+        <h1> Ulyana Piterbarg </h1>
+        <p>
+          up2021 [at] cims.nyu.edu
+        </p>
+        <p> 
+          [<a href=https://twitter.com/ulyanapiterbarg>Twitter</a>]  [<a href=https://scholar.google.com/citations?user=I5lFCusAAAAJ&hl=en>Google Scholar</a>]
+          [<a href=https://github.com/upiterbarg>Github</a>]
+          [<a href=assets/docs/CV.pdf>CV</a>]
+        </p>
+        <div class="navbar">
+          <a class="active" href="/"> About </a> <a href="/projects"> Projects </a> <a href="/teaching"> Teaching </a> <a href="/reads"> Reads </a>
+        </div>
+      </div>
+      <div class="content">
+        <small>1 September 2022</small>
+<h1>Capturing missing physics in climate model parameterizations using neural differential equations</h1>
+
+<p class="view">by Ali Ramadhan, John C Marshall, Andre Nogueira Souza, Xin Kai Lee, Ulyana Piterbarg, Adeline Hillier, Gregory LeClaire Wagner, Christopher Rackauckas, Chris Hill, Jean-Michel Campin, Raffaele Ferrari</p>
+
+<p>We explore how neural differential equations (NDEs) may be trained on highly resolved fluid-dynamical models of unresolved scales providing an ideal framework for data-driven parameterizations in climate models. NDEs overcome some of the limitations of traditional neural networks (NNs) in fluid dynamical applications in that they can readily incorporate conservation laws and boundary conditions and are stable when integrated over time. We advocate a method that employs a “residual” approach, in which the NN is used to improve upon an existing parameterization through the representation of residual fluxes which are not captured by the base parameterization.</p>
+
+
+
+  <small>tags: <em></em></small>
+
+
+      </div>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>
