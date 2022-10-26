@@ -18,7 +18,7 @@ Below are some of my favorite reads.
 
 ### Non-Fiction
 * <a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">Gödel, Escher, Bach: an Eternal Golden Braid</a> by Douglas Hofstader
-* <a href="https://www.goodreads.com/book/show/5552.QED?from_search=true&from_srp=true&qid=9cYysFaZM4&rank=10">QCD: The Strange Theory of Light and Matter</a> by Richard Feynman
+* <a href="https://www.goodreads.com/book/show/5552.QED?from_search=true&from_srp=true&qid=9cYysFaZM4&rank=10">QED: The Strange Theory of Light and Matter</a> by Richard Feynman
 * <a href="https://goodreads.com/book/show/123632.Man_and_His_Symbols">Man and His Symbols</a> by Carl Gustav Jung
 * <a href="https://www.goodreads.com/book/show/326790.The_Society_of_Mind">The Society of the Mind</a> by Marvin Minsky
 * <a href="https://mitpress.mit.edu/books/ideas-created-future">Ideas That Created the Future: Classic Papers of Computer Science</a> by Harry R. Lewis
