@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/0764.pdf)
+title:  Abstract strategy learning underlies flexible transfer in physical problem solving
 date:   2020-07-20 00:00:00 +00:00
 image: /cogsci2020.png
 categories: research
