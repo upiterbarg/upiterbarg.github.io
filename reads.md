@@ -7,12 +7,12 @@ layout: reads
 Below are some of my favorite reads.
 
 ### Fiction
-* <a href="https://www.goodreads.com/book/show/816.Cryptonomicon">Cryptonomicon</a> by Neal Stephenson
 * <a href="https://www.goodreads.com/book/show/426504.Ficciones">Ficciones</a> by Jorge Luis Borges
 * <a href="https://www.goodreads.com/book/show/6814059-le-club-des-incorrigibles-optimistes">Le Club des incorrigibles optimistes</a> by Jean-Michel Guenassia
 * <a href="https://www.goodreads.com/book/show/95558.Solaris">Solaris</a> by Stanisław Lem
 * <a href="https://www.goodreads.com/book/show/9777.The_God_of_Small_Things?ac=1&from_search=true&qid=0CEWJTkGm3&rank=1">The God of Small Things</a> by Arundhati Roy
 * <a href="https://www.goodreads.com/book/show/40180098-the-overstory">The Overstory</a> by Richard Powers
+* <a href="https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude">One Hundred Years of Solitude</a> by Gabriel García Márquez
 *  <a href="https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being">The Unbearable Lightness of Being</a> by Milan Kundera
 * <a href="https://www.goodreads.com/book/show/9809.Invisible_Cities">Invisible Cities</a> by Italo Calvino
 
