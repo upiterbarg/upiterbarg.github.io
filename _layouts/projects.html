@@ -79,7 +79,7 @@
   <i>{{post.venue}}</i>, {{ post.date | date: "%Y" }}
   <br>
   {% if post.arxiv %}
-  <a href="{{post.arxiv}}">arxiv</a> /
+  <a href="{{post.arxiv}}">preprint</a> /
   {% endif %}
   {% if post.video %}
   <a href="{{post.video}}">video</a> /
@@ -94,6 +94,7 @@
   <a href="{{post.slides}}">slides</a> /
   {% endif %}
   <s></s>
+  <br>
   <br>
   {{ post.excerpt }}
 </td>
