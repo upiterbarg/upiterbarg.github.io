@@ -7,7 +7,7 @@ categories: research
 author: "Ali Ramadhan, John C Marshall, Andre Nogueira Souza, Xin Kai Lee, Ulyana Piterbarg, Adeline Hillier, Gregory LeClaire Wagner, Christopher Rackauckas, Chris Hill, Jean-Michel Campin, Raffaele Ferrari"
 authors: "Ali Ramadhan, John C Marshall, Andre Nogueira Souza, Xin Kai Lee, <b>Ulyana Piterbarg</b>, Adeline Hillier, Gregory LeClaire Wagner, Christopher Rackauckas, Chris Hill, Jean-Michel Campin, Raffaele Ferrari"
 venue: "Earth and Space Science Open Archive (ESSOAR)"
-arxiv: https://essopenarchive.org/doi/full/10.1002/essoar.10512533.1
+arxiv: https://arxiv.org/abs/2010.12559
 code: https://github.com/ali-ramadhan/NeuralFreeConvection.jl
 ---
 We explore how neural differential equations (NDEs) may be trained on highly resolved fluid-dynamical models of unresolved scales providing an ideal framework for data-driven parameterizations in climate models. NDEs overcome some of the limitations of traditional neural networks (NNs) in fluid dynamical applications in that they can readily incorporate conservation laws and boundary conditions and are stable when integrated over time. We advocate a method that employs a "residual" approach, in which the NN is used to improve upon an existing parameterization through the representation of residual fluxes which are not captured by the base parameterization.
