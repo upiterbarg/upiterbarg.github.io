@@ -53,7 +53,7 @@ a:active {
 
 li {
   color: #3e4650;
-  font-weight: 600;
+  font-weight: 400;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16;
 }
@@ -61,7 +61,7 @@ li {
 e {
   color: #3e4650;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 400;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16;
 }
@@ -72,6 +72,10 @@ p {
   font-weight: 400;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16;
+}
+
+strong {
+  font-weight: 600;
 }
 
 p.tab {
