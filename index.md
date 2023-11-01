@@ -3,7 +3,7 @@ layout: default
 ---
 ## About
 
-I'm a Ph.D. student in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Courant](https://cims.nyu.edu/dynamic/), co-advised by [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php) and [Lerrel Pinto](https://www.lerrelpinto.com/). I'm fortunate to be supported by a [DeepMind Ph.D. Scholarship](https://www.deepmind.com/scholarships) and an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/resources/about-grfp/).
+I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Courant](https://cims.nyu.edu/dynamic/), co-advised by [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php) and [Lerrel Pinto](https://www.lerrelpinto.com/). My research is supported by a [DeepMind Ph.D. Scholarship](https://www.deepmind.com/scholarships) and an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/resources/about-grfp/).
 
 I'm interested in **AI for open-ended interaction and problem-solving across domains like games, math, physics, and biology**. Recently, I've been thinking about:
 
