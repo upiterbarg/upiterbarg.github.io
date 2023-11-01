@@ -8,7 +8,7 @@ I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Cour
 I'm interested in **AI for open-ended interaction and problem-solving across domains like games, math, physics, and biology**. Recently, I've been thinking about:
 
 * How do we go about building models that can flexibly explore and interact with the world the way we (humans and animals) do? 
-* What sort of structures, priors, and training/finetuning/prompting paradigms can enable a large pre-trained model to be an elegant proof solver? To act as an effective surrogate for ODEs/PDEs/non-linear dynamics? To serve as a (truly) universal high-level controller for robotics settings?
+* What sort of structures, priors, and training/finetuning/prompting paradigms can enable a large pre-trained model to be an elegant proof solver? To act as an effective surrogate for ODEs/PDEs/non-linear dynamics? To serve as a (truly) universal high-level controller in robotics settings?
 
 My work touches on **imitation** and **reinforcement learning** across modalities (vision, NLP, simulators, etc). I'm also broadly interested in differentiable computing. 
 
