@@ -6,7 +6,7 @@ image: /nh.gif
 categories: research
 author: "Ulyana Piterbarg, Lerrel Pinto, Rob Fergus"
 authors: "<b>Ulyana Piterbarg</b>, Lerrel Pinto, Rob Fergus"
-venue: "37th Conference on Neural Information Processing Systems"
+venue: "37th Conference on Neural Information Processing Systems (NeurIPS)"
 code: https://github.com/upiterbarg/hihack
 projectpage: https://upiterbarg.github.io/hihack-demo
 arxiv: https://arxiv.org/abs/2305.19240
