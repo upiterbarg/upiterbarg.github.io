@@ -14,6 +14,7 @@ Below are some of my favorite reads.
 * <a href="https://www.goodreads.com/book/show/40180098-the-overstory">The Overstory</a> by Richard Powers
 *  <a href="https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being">The Unbearable Lightness of Being</a> by Milan Kundera
 * <a href="https://www.goodreads.com/book/show/9809.Invisible_Cities">Invisible Cities</a> by Italo Calvino
+* <a href="https://www.nytimes.com/1975/03/30/archives/novelistic-autobiography-autobiographical-novel-no-matter-zen-and.html">Zen and the Art of Motorcycle Maintenance</a> by Robert M. Pirsig
 
 ### Non-Fiction
 * <a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">Gödel, Escher, Bach: an Eternal Golden Braid</a> by Douglas Hofstader
