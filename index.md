@@ -5,7 +5,7 @@ layout: default
 
 I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Courant](https://cims.nyu.edu/dynamic/), co-advised by [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php) and [Lerrel Pinto](https://www.lerrelpinto.com/). My research is supported by a [DeepMind Ph.D. Scholarship](https://www.deepmind.com/scholarships) and an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/resources/about-grfp/).
 
-I'm interested in **reasoning, decision-making, and open-ended interaction** with large generative models. Recently, I've been thinking about:
+I'm interested in **reasoning, decision-making, and open-ended interaction with large generative models**. Recently, I've been thinking about:
 
 * How do we go about building agents that can flexibly explore and interact with the world the way we (humans and animals) do? 
 
