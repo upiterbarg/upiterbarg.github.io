@@ -9,7 +9,7 @@ I'm interested in **reasoning, decision-making, and open-ended interaction with 
 
 * How do we go about building agents that can flexibly explore and interact with the world the way we (humans and animals) do? 
 
-* Is next-token prediction a sufficient pretraining objective for text-based decision-making?
+* When is next-token prediction a sufficient pretraining objective for text-based decision-making?
 
 * What sort of structures, priors, and training/finetuning/prompting paradigms can enable a large pre-trained model to be an elegant proof solver? To act as an effective surrogate for ODEs/PDEs/non-linear dynamics? To serve as a (truly) universal high-level controller in robotics settings?
 
