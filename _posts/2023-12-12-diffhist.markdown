@@ -7,6 +7,8 @@ categories: research
 author: "Ulyana Piterbarg, Lerrel Pinto, Rob Fergus"
 authors: "<b>Ulyana Piterbarg</b>, Lerrel Pinto, Rob Fergus"
 venue: arXiv Preprint
+code: https://github.com/upiterbarg/diff_history
+projectpage: https://diffhistory.github.io
 arxiv: https://arxiv.org/abs/2312.07540
 ---
 Neural Language Models (LMs) offer an exciting solution for general-purpose embodied control. However, a key technical issue arises when using an LM-based controller: environment observations must be converted to text, which coupled with history, results in <b>long and verbose textual prompts</b>. As a result, prior work in LM agents is limited to restricted domains with small observation size as well as minimal needs for interaction history or domain-specific instruction tuning. 
