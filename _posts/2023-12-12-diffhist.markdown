@@ -2,7 +2,7 @@
 layout: post
 title:  diff History for Neural Language Agents
 date:   2023-05-30 00:00:00 +00:00
-image: /diff.png
+image: /diff2.png
 categories: research
 author: "Ulyana Piterbarg, Lerrel Pinto, Rob Fergus"
 authors: "<b>Ulyana Piterbarg</b>, Lerrel Pinto, Rob Fergus"
