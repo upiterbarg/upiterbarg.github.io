@@ -1,12 +1,19 @@
 ---
 layout: post
-title:  diff History for Long-Context Language Agents
+title:  diff History for Neural Language Agents
 date:   2023-05-30 00:00:00 +00:00
 image: /diff.png
 categories: research
 author: "Ulyana Piterbarg, Lerrel Pinto, Rob Fergus"
 authors: "<b>Ulyana Piterbarg</b>, Lerrel Pinto, Rob Fergus"
-venue: Preprint
+venue: arXiv Preprint
 arxiv: https://arxiv.org/abs/2312.07540
 ---
-Language Models (LMs) offer an exciting solution for general-purpose embodied control. However, a key technical issue arises when using an LM-based controller: environment observations must be converted to text, which coupled with history, leads to prohibitively large textual prompts. As a result, <b>prior work in LM agents is limited to restricted domains with either small observation size or minimal needs for interaction history</b>. In this paper, we introduce a simple and highly effective solution to these issues. <b>We exploit the fact that consecutive text observations have high similarity and propose to compress them via the Unix diff command.</b> We demonstrate our approach in NetHack, a complex rogue-like video game, that requires long-horizon reasoning for decision-making and is far from solved, particularly for neural agents. Diff history offers an average of 4x increase in the length of the text-based interaction history available to the LM. This observational compression along with the benefits of abstraction yields a 7x improvement in game score on held-out environment instances over state-of-the-art baselines. It also outperforms prior agents that use visual observations by over 40%.
+Neural Language Models (LMs) offer an exciting solution for general-purpose embodied control. However, a key technical issue arises when using an LM-based controller: environment observations must be converted to text, which coupled with history, results in <b>long and verbose textual prompts</b>. As a result, prior work in LM agents is limited to restricted domains with small observation size as well as minimal needs for interaction history or domain-specific instruction tuning. 
+
+
+<b>In this paper, we introduce <code>diff</code> history, a simple and highly effective solution to these issues.</b>
+By applying the Unix <code>diff</code> command on consecutive text observations in the interaction histories used to prompt LM policies, we can both  <b>abstract away redundant information</b> and <b>focus the content of textual input on the salient changes</b> in the environment. 
+
+On <b>NetHack</b>, an unsolved video game that requires long-horizon reasoning for decision-making, LMs tuned with <code>diff</code> history match state-of-the-art performance for neural agents while needing <b>1800x fewer training data</b> compared to prior work. Even on the simpler <b>BabyAI-Text</b> environment with concise text observations, we find that although  <code>diff</code> history increases the length of prompts, the representation it provides offers a <b>25% improvement</b> in the efficiency of instruction tuning. Further, we show that <code>diff</code> history scales favorably across different tuning dataset sizes.
+
