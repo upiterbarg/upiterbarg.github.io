@@ -7,7 +7,7 @@ I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Cour
 
 I'm interested in **reasoning, decision-making, and open-ended interaction with large generative models**. Recently, I've been thinking about:
 
-* When is next-token prediction a sufficient pretraining objective for decision-making? Can simple data re-factorizations improve the expressivity of representations in reasoning tasks?
+* When is next-token prediction a sufficient pretraining objective for reasoning and decision-making? Can simple data re-factorizations improve the expressivity of LLM representations?
 
 * What are the limits of in-context learning for interactive decision-making with large VLMs and LLMs?
 
