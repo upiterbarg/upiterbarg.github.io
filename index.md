@@ -7,13 +7,14 @@ I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Cour
 
 I'm interested in **reasoning, decision-making, and open-ended interaction with large generative models**. Recently, I've been thinking about:
 
-* How do we go about building agents that can flexibly explore and interact with the world the way we (humans and animals) do? 
+* Can simple data re-factorizations improve the expressivity of LLM representations in reasoning tasks?
 
-* When is next-token prediction a sufficient pretraining objective for text-based decision-making?
+* When is next-token prediction a sufficient pretraining objective for decision-making?
 
-* What sort of structures, priors, and training/finetuning/prompting paradigms can enable a large pre-trained model to be an elegant proof solver? To act as an effective surrogate for ODEs/PDEs/non-linear dynamics? To serve as a (truly) universal high-level controller in robotics settings?
+* What is the best way to generate synthetic data from LLMs?
 
+* What are the limits of in-context learning for interactive decision-making with large VLMs and LLMs?
 
 My work touches on **generative modeling** and **reinforcement learning** across modalities (vision, natural language processing, simulators, etc.). I'm also broadly interested in differentiable computing. 
 
-I've spent time at [EPFL LCN](https://lcnwww.epfl.ch/gerstner/), the [Applied Science Team](https://research.google/teams/applied-science/) at Google Research, and [Microsoft Research NYC](https://www.microsoft.com/en-us/research/theme/machine-learning-ai-nyc/). I did my undergrad in mathematics at MIT, during which I was exceptionally lucky to be mentored by [Kelsey R. Allen](https://k-r-allen.github.io/), [Gigliola Staffilani](https://math.mit.edu/~gigliola/), [Jörn Dunkel](https://math.mit.edu/~dunkel/), and [Raffaele Ferrari](http://ferrari.mit.edu/about/).
+I've spent time at [EPFL LCN](https://lcnwww.epfl.ch/gerstner/), the [Applied Science Team](https://research.google/teams/applied-science/) at Google Research, and the [AI Frontiers Team at Microsoft Research NYC](https://www.microsoft.com/en-us/research/theme/machine-learning-ai-nyc/). I did my undergrad in mathematics at MIT, during which I was exceptionally lucky to be mentored by [Kelsey R. Allen](https://k-r-allen.github.io/), [Gigliola Staffilani](https://math.mit.edu/~gigliola/), [Jörn Dunkel](https://math.mit.edu/~dunkel/), and [Raffaele Ferrari](http://ferrari.mit.edu/about/).
