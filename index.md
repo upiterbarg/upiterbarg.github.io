@@ -9,7 +9,7 @@ I'm interested in **reasoning, decision-making, and open-ended interaction with 
 
 * When is next-token prediction a sufficient pretraining objective for reasoning and decision-making? Can simple data re-factorizations improve the expressivity of LLM representations?
 
-* What are the limits of in-context learning for interactive decision-making with large VLMs and LLMs?
+* What are the limits of in-context learning for interactive decision-making?
 
 * How do we go about building agents that can flexibly explore and interact with the world the way we (humans and animals) do?
 
