@@ -11,7 +11,7 @@ I'm interested in applying **large generative models** to hard tasks like **code
 
 * What is the best way to generate synthetic date for improving language model capabilities?
 
-* When is next-token prediction a sufficient pretraining objective for reasoning and decision-making? 
+* When is next-token prediction a sufficient pretraining objective for reasoning and decision-making? How does the structure of pretraining/finetuning data impact the downstream expressivity of model representations?
 
 My work touches on **generative modeling** and **reinforcement learning** across modalities (vision, natural language processing, simulators, etc.). I'm also broadly interested in scientific applications for deep learning, such as weather and climate modeling.
 
