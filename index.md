@@ -7,7 +7,7 @@ I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Cour
 
 I'm interested in **applying large generative models** to hard tasks like **code synthesis, reasoning, decision-making, and open-ended interaction**. Recently, I've been thinking about:
 
-* How should we train LLMs/VLMs to exhibit a better trade-off between inference-time budget and performance?
+* How should we train language/vision-language models to exhibit a better trade-off between inference-time performance and computational budget?
 
 * What is the most efficient way to generate synthetic date for improving language model capabilities?
 
