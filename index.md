@@ -5,9 +5,9 @@ layout: default
 
 I'm a Ph.D. candidate in the [CILVR lab](https://wp.nyu.edu/cilvr/) at [NYU Courant](https://cims.nyu.edu/dynamic/), co-advised by [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php) and [Lerrel Pinto](https://www.lerrelpinto.com/). My research is supported by a [DeepMind Ph.D. Scholarship](https://www.deepmind.com/scholarships) and an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/resources/about-grfp/).
 
-I'm interested in **large generative models** for hard tasks like **code synthesis, reasoning, decision-making, and open-ended interaction**. Recently, I've been thinking about:
+I'm interested in **large generative models** that can solve hard tasks like **code synthesis, reasoning, decision-making, and open-ended interaction**. Recently, I've been thinking about:
 
-* How should we train language/vision-language models to exhibit better trade-offs between inference-time performance and computational budget? Can inference close the gap between models of different scales?
+* How should we train language/vision-language models to exhibit better inference-time trade-offs between performance and computational budget? Can inference close the performance gap between models of different scales?
 
 * What is the most efficient way to generate synthetic date for improving language model capabilities?
 
