@@ -9,7 +9,7 @@ I'm interested in **large generative models** that can solve hard tasks in setti
 
 * How should we train language/vision-language models to exhibit better inference-time trade-offs between performance and computational budget? Can inference close the performance gap between models of different scales?
 
-* What is the most efficient way to generate synthetic date for improving language model capabilities?
+* What is the most efficient way to generate synthetic data for improving language model capabilities?
 
 * When is next-token prediction a sufficient pretraining objective for reasoning and decision-making? How does the structure of data impact the downstream expressivity of model representations?
 
