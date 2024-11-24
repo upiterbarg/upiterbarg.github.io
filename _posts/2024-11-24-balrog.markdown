@@ -4,7 +4,7 @@ title:  BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games
 date:   2024-11-24 00:00:00 +00:00
 image: /balrog.png
 categories: research
-authors: "Davide Paglieri*, Bartłomiej Cupiał*, Samuel Coward, <b>Ulyana Piterbarg</b>, Maciej Wolczyk, Akbir Khan, Eduardo Pignatelli, Łukasz Kuciński, Lerrel Pinto Rob Fergus, Jakob Nicolaus Foerster, Jack Parker-Holder, Tim Rocktäschel"
+authors: "Davide Paglieri, Bartłomiej Cupiał*, Samuel Coward, <b>Ulyana Piterbarg</b>, Maciej Wolczyk, Akbir Khan, Eduardo Pignatelli, Łukasz Kuciński, Lerrel Pinto Rob Fergus, Jakob Nicolaus Foerster, Jack Parker-Holder, Tim Rocktäschel"
 venue: Preprint
 code: https://github.com/balrog-ai/BALROG
 projectpage: https://balrogai.com/
