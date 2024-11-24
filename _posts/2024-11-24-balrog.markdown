@@ -1,0 +1,13 @@
+---
+layout: post
+title:  BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games
+date:   2024-11-24 00:00:00 +00:00
+image: /balrog.png
+categories: research
+authors: "Davide Paglieri*, Bartłomiej Cupiał*, Samuel Coward, <b>Ulyana Piterbarg</b>, Maciej Wolczyk, Akbir Khan, Eduardo Pignatelli, Łukasz Kuciński, Lerrel Pinto Rob Fergus, Jakob Nicolaus Foerster, Jack Parker-Holder, Tim Rocktäschel"
+venue: Preprint
+code: https://github.com/balrog-ai/BALROG
+projectpage: https://balrogai.com/
+arxiv: https://arxiv.org/abs/2411.13543
+---
+We introduce BALROG, a benchmark designed to assess the agentic capabilities of LLMs and VLMs through a set of increasingly challenging games. Frontier models like Claude 3.5 Sonnet and GPT-4o achieve <2% progress on the hardest game in BALROG, the notorious roguelike dungeoncrawler NetHack.
