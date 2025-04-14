@@ -5,7 +5,7 @@ date:  2025-01-21 00:00:00 +00:00
 image: /balrog.png
 categories: research
 authors: "Davide Paglieri, Bartłomiej Cupiał*, Samuel Coward, <b>Ulyana Piterbarg</b>, Maciej Wolczyk, Akbir Khan, Eduardo Pignatelli, Łukasz Kuciński, Lerrel Pinto Rob Fergus, Jakob Nicolaus Foerster, Jack Parker-Holder, Tim Rocktäschel"
-venue: "Thirteenth International Conference on Learning Representations (ICLR)"
+venue: "ICLR"
 code: https://github.com/balrog-ai/BALROG
 projectpage: https://balrogai.com/
 arxiv: https://arxiv.org/abs/2411.13543

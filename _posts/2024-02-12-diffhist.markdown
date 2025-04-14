@@ -6,7 +6,7 @@ image: /diff2.png
 categories: research
 author: "Ulyana Piterbarg, Lerrel Pinto, Rob Fergus"
 authors: "<b>Ulyana Piterbarg</b>, Lerrel Pinto, Rob Fergus"
-venue: 41st International Conference on Machine Learning (ICML)
+venue: ICML
 code: https://github.com/upiterbarg/diff_history
 projectpage: https://diffhistory.github.io
 arxiv: https://arxiv.org/abs/2312.07540
