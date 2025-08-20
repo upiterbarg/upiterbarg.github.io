@@ -11,7 +11,7 @@ I'm interested in **generative models** that can solve hard tasks in settings li
 * What does effective alignment look like for agents?
 * How do the abstractions present in training data impact test-time scaling?
 
-Currently, I'm a research scientist intern at Meta AI working on LLM post-training for collaborative multi-agent tasks, supervised by Gregoire Mialon and Thomas Scialom (Llama Agents Team). ==**I will be on the job market in Fall 2025/Spring 2026!**==
+Currently, I'm a research scientist intern at Meta AI working on LLM post-training for collaborative multi-agent tasks, supervised by Gregoire Mialon and Thomas Scialom (Llama Agents Team). <mark>**I will be on the job market in Fall 2025/Spring 2026!**</mark>
 
 Previously, I've spent time working on improving small language model reasoners with the [GenAI/AI Frontiers Teams at Microsoft Research](https://www.microsoft.com/en-us/research/theme/machine-learning-ai-nyc/) and studying ML-powered weather/climate simulators with the [Applied Science Team at Google Research](https://research.google/teams/applied-science/). 
 
